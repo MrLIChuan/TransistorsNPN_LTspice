@@ -1,0 +1,63 @@
+Stray ".ends" card: .ends
+Stray ".ends" card: .ends
+Circuit: * E:\USBCLE_15_11_2018\IUT\ER LT SPICE\TP 1- Traceur de courbes\FINAL\EL FINAL.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 640
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 636.888
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 1.92359e-007 to 1.9239e-007
+Heightened Def Con from 1.92609e-007 to 1.92749e-007
+Heightened Def Con from 1.93025e-007 to 1.93152e-007
+Heightened Def Con from 1.93152e-007 to 1.93153e-007
+Heightened Def Con from 1.93153e-007 to 1.94153e-007
+Heightened Def Con from 1.94153e-007 to 1.94278e-007
+Heightened Def Con from 1.9428e-007 to 1.9428e-007
+Heightened Def Con from 1.9428e-007 to 1.95282e-007
+Heightened Def Con from 1.95284e-007 to 1.95286e-007
+Heightened Def Con from 1.95286e-007 to 1.95413e-007
+Heightened Def Con from 1.95425e-007 to 1.95427e-007
+Heightened Def Con from 1.95428e-007 to 1.95443e-007
+Heightened Def Con from 1.95444e-007 to 1.95444e-007
+Heightened Def Con from 1.95444e-007 to 1.95585e-007
+Heightened Def Con from 1.95585e-007 to 1.95585e-007
+Heightened Def Con from 1.95596e-007 to 1.97596e-007
+
+Date: Fri Apr 24 16:23:53 2020
+Total elapsed time: 61.914 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1074775
+traniter = 1073171
+tranpoints = 334728
+accept = 232896
+rejected = 101848
+matrix size = 189
+fillins = 751
+solver = Normal
+Thread vector: 30.6/17.9[3] 14.4/7.9[3] 12.4/4.8[3] 1.4/2.5[1]  2592/500
+Matrix Compiler1: 70.82 KB object code size  31.1/17.2/[8.0]
+Matrix Compiler2: 29.74 KB object code size  7.4/5.2/[3.4]
+
+
